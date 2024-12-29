@@ -43,10 +43,10 @@ pip install numpy sympy matplotlib
 
 ## Cara Menjalankan
 
-1. Simpan kode Python di file, misalnya `linear_algebra_calculator.py`.
+1. Simpan kode Python di file, misalnya `kalkulator.py`.
 2. Jalankan program menggunakan Python:
    ```bash
-   python linear_algebra_calculator.py
+   python kalkulator.py
    ```
 3. Masukkan ukuran matriks (baris/kolom) dan pilih operasi yang diinginkan.
 4. Ikuti petunjuk untuk memasukkan matriks atau persamaan.
